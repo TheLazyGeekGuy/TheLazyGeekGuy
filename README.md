@@ -43,7 +43,7 @@ Expect projects mixing:
 - 💿 Code & Music
 - 🧪 AI & Audio
 - 📟 Retro tech & sound
-
+<!---
 ---
 
 ## 🔗 Let’s Connect
@@ -52,7 +52,7 @@ Expect projects mixing:
 - 🧠 [LinkedIn](https://linkedin.com/in/TheLazyGeekGuy) *(optional)*
 - 🎶 [SoundCloud](https://soundcloud.com/yourhandle) *(if music-focused)*
 - 📬 Contact: [thelazygeek@yourdomain.dev](mailto:thelazygeek@yourdomain.dev)
-
+--->
 ---
 
 > *"Laziness is the mother of efficiency." — Me, after automating my coffee machine*
