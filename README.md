@@ -1,63 +1,127 @@
 # 👨‍💻 TheLazyGeekGuy
 
-🎧 Veteran IT guy | 💻 Software Whisperer | 🎛️ Music Activist  
-🧠 Lazy by design, efficient by nature
+🎧 IT veteran \| ⚙️ Systems tinkerer \| 🎛️ Audio hacker\
+🧠 Automation addict \| 🛠️ Builder of strange things
 
----
+------------------------------------------------------------------------
 
 ## 👋 About Me
 
-I'm **TheLazyGeekGuy**, and despite the nickname, I’ve been anything but lazy when it comes to **technology** and **music** for the last **30+ years**.  
-My journey spans everything from punch cards to the cloud, from C to Rust, and from MIDI cables to modular synths.
+I'm **TheLazyGeekGuy** --- a long-time IT engineer who believes that\
+**automation, curiosity, and a bit of creative laziness** can solve most
+problems.
 
-I believe in solving problems once — and solving them well. That's where the *lazy* part comes in:  
-I automate the boring stuff so I can focus on what truly matters — creating, optimizing, and remixing life one repo at a time.
+For more than **30 years**, I've been navigating the strange evolution
+of technology: from early computing and legacy systems to cloud
+platforms, CI/CD pipelines, and AI-driven tools.
 
----
+I enjoy working at the intersection of:
 
-## 💼 What I Do
+-   software engineering
+-   systems architecture
+-   automation
+-   audio technology
+-   creative experimentation
 
-- 🔧 **Architecture & Legacy Systems**: Still remember when servers were actual boxes in closets.
-- ⚙️ **Automation & Scripting**: From shell-fu to Python hacks, I'm fluent in laziness.
-- 🎛️ **Audio Nerding**: DSP, synth programming, Ableton wizardry, and occasional algorithmic composition.
-- ☁️ **Modern Dev**: DevOps, containers, CI/CD, GitOps — if it ends with "Ops", I've touched it.
-- 🎸 **Open Source & Indie Projects**: Because not everything needs to be closed or corporate.
+My philosophy is simple:
 
----
+> If a task needs to be done twice, it deserves a script.
 
-## 🛠️ Tools of the Trade
+------------------------------------------------------------------------
 
-```bash
-Languages:   Bash | Python | JavaScript | C/C++ | Rust (new love)
-Dev:         Docker | Git | Ansible | Linux (of course)
-Music:       Pure Data | VCV Rack | Ableton | Reaper | Max/MSP
+## 💼 What I Work On
+
+### ⚙️ Systems & Software Engineering
+
+-   Architecture and maintenance of complex systems
+-   Legacy environments and modern infrastructure coexistence
+-   DevOps pipelines and automation
+-   CI/CD workflows (GitLab, containers, static deployment)
+
+### 🧪 Test Automation & Tooling
+
+-   Black-box system testing
+-   Automation frameworks
+-   Non-intrusive testing of complex applications
+-   Integration of specialized testing tools
+
+### ☁️ Infrastructure & Platforms
+
+-   Static site generation and deployment
+-   Cloudflare Pages / Workers / R2
+-   Git-based infrastructure
+-   Containerized environments
+
+### 🎛️ Audio Technology & DSP
+
+-   VST / AU plugin experimentation
+-   JUCE development
+-   MIDI and automation workflows
+-   Audio processing and DSP experimentation
+
+### 🤖 AI & Creative Tools
+
+-   LLM-assisted development
+-   Local AI models for coding and automation
+-   Experimental AI workflows for music and software
+
+------------------------------------------------------------------------
+
+## 🛠️ Tools & Technologies
+
+``` bash
+Languages:   Bash | Python | JavaScript | C/C++ | Rust
+DevOps:      Docker | Git | GitLab CI/CD | Linux
+Cloud:       Cloudflare Pages | Workers | R2
+Audio:       JUCE | VST3 | MIDI | DSP
+AI:          Local LLMs | automation workflows
 ```
 
----
+------------------------------------------------------------------------
 
-## 🎵 Side Hustle
+## 🧩 Projects & Experiments
 
-When not hacking code, I'm hacking beats. Whether it's ambient drones, glitchy electro, or deep house grooves, music is my second terminal window.
+You will mostly find here:
 
-Expect projects mixing:
-- 💿 Code & Music
-- 🧪 AI & Audio
-- 📟 Retro tech & sound
-<!---
----
+-   automation scripts
+-   deployment pipelines
+-   technical experiments
+-   audio tooling and plugins
+-   small utilities that solve annoying problems
 
-## 🔗 Let’s Connect
+Some repositories explore the crossover between **software engineering
+and music production**, including:
 
-- 🔗 [Website/Blog](https://yourwebsite.dev) *(optional)*
-- 🧠 [LinkedIn](https://linkedin.com/in/TheLazyGeekGuy) *(optional)*
-- 🎶 [SoundCloud](https://soundcloud.com/yourhandle) *(if music-focused)*
-- 📬 Contact: [thelazygeek@yourdomain.dev](mailto:thelazygeek@yourdomain.dev)
---->
----
+-   plugin experimentation
+-   AI-assisted music tools
+-   audio automation systems
 
-> *"Laziness is the mother of efficiency." — Me, after automating my coffee machine*
+------------------------------------------------------------------------
 
-<!---
-TheLazyGeekGuy/TheLazyGeekGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎵 Creative Side
+
+Outside of pure software work, I also explore **music production and
+audio experimentation**.
+
+Projects often mix:
+
+-   code and sound
+-   AI and music
+-   digital tools and analog inspiration
+
+Because sometimes the best debugger is a synthesizer.
+
+------------------------------------------------------------------------
+
+## 🧠 Philosophy
+
+I prefer **simple systems that scale** over complex systems that
+impress.
+
+Automation is not about laziness.
+
+It's about **respecting your own time**.
+
+------------------------------------------------------------------------
+
+> *"The best code is the one you never have to write twice."*
