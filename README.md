@@ -79,22 +79,35 @@ AI:          Local LLMs | automation workflows
 
 ------------------------------------------------------------------------
 
-## 🧩 Projects & Experiments
+## 🧩 Projects
 
-You will mostly find here:
+> 🌐 **Full showcase: [thelazygeekguy.github.io](https://thelazygeekguy.github.io/)** ([en](https://thelazygeekguy.github.io/en/))
 
--   automation scripts
--   deployment pipelines
--   technical experiments
--   audio tooling and plugins
--   small utilities that solve annoying problems
+### 🎛️ MIDI Studio: hardware editors in the browser
 
-Some repositories explore the crossover between **software engineering
-and music production**, including:
+A family of editors built on one shared platform (Web MIDI + SysEx, nothing to install, no account, no backend).
+All public editors are **alphas**, and each one states what was tested on real hardware.
 
--   plugin experimentation
--   AI-assisted music tools
--   audio automation systems
+| Editor | Hardware | Status |
+|---|---|---|
+| [BCR32 Studio](https://github.com/TheLazyGeekGuy/bcr32-studio) · [open](https://thelazygeekguy.github.io/bcr32-studio/) | Behringer BCR32 | Public alpha |
+| [FireworX Studio](https://github.com/TheLazyGeekGuy/fireworx-studio) · [open](https://thelazygeekguy.github.io/fireworx-studio/) | TC Electronic FireworX | Public alpha |
+| [Mx000 Studio](https://github.com/TheLazyGeekGuy/Mx000-studio) · [open](https://thelazygeekguy.github.io/Mx000-studio/) | TC Electronic M3000 / M2000 | Public alpha |
+| X5DR Studio | Korg X5DR (AI2) | In testing |
+| CS12 Editor | CS12 control surface | In testing |
+
+### ✍️ Writing
+
+- [**Plume**](https://github.com/TheLazyGeekGuy/plume) ([web](https://thelazygeekguy.github.io/plume/)): a WYSIWYG word processor that feels like Word and saves Markdown. No macros, no plugins, no database to patch. Written in Rust. *In testing.*
+
+### 🏠 Career & property
+
+- **Prolyma**: take charge of your career instead of enduring it. *In preparation.*
+- **Domolyma**: efficient management of your real-estate portfolio. *In preparation.*
+
+### 🛠️ And the rest
+
+Automation scripts, deployment pipelines, technical experiments and small utilities that solve annoying problems. See my [repositories](https://github.com/TheLazyGeekGuy?tab=repositories).
 
 ------------------------------------------------------------------------
 
