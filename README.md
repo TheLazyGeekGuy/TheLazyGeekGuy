@@ -93,7 +93,7 @@ All public editors are **alphas**, and each one states what was tested on real h
 | [BCR32 Studio](https://github.com/TheLazyGeekGuy/bcr32-studio) · [open](https://thelazygeekguy.github.io/bcr32-studio/) | Behringer BCR32 | Public alpha |
 | [FireworX Studio](https://github.com/TheLazyGeekGuy/fireworx-studio) · [open](https://thelazygeekguy.github.io/fireworx-studio/) | TC Electronic FireworX | Public alpha |
 | [Mx000 Studio](https://github.com/TheLazyGeekGuy/Mx000-studio) · [open](https://thelazygeekguy.github.io/Mx000-studio/) | TC Electronic M3000 / M2000 | Public alpha |
-| X5DR Studio | Korg X5DR (AI2) | In testing |
+| [AI² Studio](https://github.com/TheLazyGeekGuy/ai2-studio) · [open](https://thelazygeekguy.github.io/ai2-studio/) | Korg X5DR (hardware) + 20 other AI² models (files) | Public alpha |
 | CS12 Editor | CS12 control surface | In testing |
 
 ### ✍️ Writing
